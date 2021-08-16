@@ -18,6 +18,9 @@ npm run build
 ### Run your unit tests
 ```
 npm run test:unit
+
+### Demo
+https://vue-pokemon-by-moi.netlify.app/
 ```
 
 ### Customize configuration
