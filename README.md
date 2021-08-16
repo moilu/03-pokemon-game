@@ -19,9 +19,9 @@ npm run build
 ```
 npm run test:unit
 
+```
 ### Demo
 https://vue-pokemon-by-moi.netlify.app/
-```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
